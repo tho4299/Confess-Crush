@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Làm NY tớ đi",
-    introTitle: 'Vũ Thị An',
+    introTitle: 'Khánh Huyền',ha
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
