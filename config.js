@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Em có ngốc không?",
-    introTitle: 'Quỳnh Như',
+    introTitle: 'Thương',
     introDesc: `Món quà gửi bé!!`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: '30/4 1/5, mình qua đón đi chơi nha.',
+    messDesc: 'Làm người yêu tớ nha!!!',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://zalo.me/0344800628' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
