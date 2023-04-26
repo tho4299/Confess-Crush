@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Em có ngốc không?",
-    introTitle: 'Thương',
+    introTitle: '.....',
     introDesc: `Món quà gửi bé!!`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
